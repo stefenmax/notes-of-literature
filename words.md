@@ -7,7 +7,9 @@ generative adversarial network(**GAN**) 生成对抗网络是structrued learning
 vanilla  having no special or extra features; ordinary or standard  
 scenario 场景  
 Schematic illustration 示意图
-scalar 好坏的程度
+scalar 好坏的程度  
+convex and non-convex function 前者有很多局部极值，后者只有一个全局极值  
+![image](https://github.com/stefenmax/notes-of-literature/blob/master/source/convex.png)
 ## 美好句子  
 Experiments on simulated and real low-dose CT data demonstrate the superiority of the proposed method according to both visual inspection
 and comprehensive quantitative performance evaluation.  

@@ -10,4 +10,5 @@ Schematic illustration 示意图
 scalar 好坏的程度
 ## 美好句子  
 Experiments on simulated and real low-dose CT data demonstrate the superiority of the proposed method according to both visual inspection
-and comprehensive quantitative performance evaluation.
+and comprehensive quantitative performance evaluation.  
+We used a real clinical dataset authorized for “the 2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Chal￾lenge" by Mayo Clinic for the training and evaluation of the proposed networks

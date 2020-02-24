@@ -7,3 +7,9 @@ this will be your stone of dream
 > #### L4 Robust Low-Dose CT Sinogram Preprocessing via Exploiting Noise-Generating Mechanism
 > #### L5 Generative Adversarial Network in Medical Imaging: A Review
 > #### L6 Cycle Consistent Adversarial Denoising Network for Multiphase Coronary CT Angiography
+> #### L7  Model-Based Iterative Reconstruction for Propagation-Based Phase-Contrast X-ray CT  
+           including Models for the Source and the Detector           
+> #### L8 Radon Inversion via Deep Learning  
+> #### L9 Dual Network Architecture for Few-view CT – Trained on ImageNet Data and Transferred for Medical Imaging  
+> #### L10 
+> #### L11

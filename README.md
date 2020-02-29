@@ -11,5 +11,5 @@ this will be your stone of dream
            including Models for the Source and the Detector           
 > #### L8 Radon Inversion via Deep Learning  
 > #### L9 Dual Network Architecture for Few-view CT – Trained on ImageNet Data and Transferred for Medical Imaging  
-> #### L10 
+> #### L10 Tomographic reconstruction with a generative adversarial network
 > #### L11

@@ -14,6 +14,7 @@ convex and non-convex function 前者有很多局部极值，后者只有一个�
 Experiments on simulated and real low-dose CT data demonstrate the superiority of the proposed method according to both visual inspection
 and comprehensive quantitative performance evaluation.  
 From these variations, conclusions about the phase-shifting properties of the sample can be drawn.
+their pros and cons are also discussed.他们的优缺点同样被讨论到
 
 ## 机器学习杂的知识
 + 数据库 We used a real clinical dataset authorized for “the 2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Challenge" by Mayo Clinic for the training and evaluation of the proposed networks  

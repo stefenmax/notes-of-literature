@@ -12,4 +12,4 @@ this will be your stone of dream
 > #### L8 Radon Inversion via Deep Learning  
 > #### L9 Dual Network Architecture for Few-view CT – Trained on ImageNet Data and Transferred for Medical Imaging  
 > #### L10 Tomographic reconstruction with a generative adversarial network
-> #### L11 **Limited Angle Tomography for Transmission X-Ray Microscopy Using Deep Learning**
+> #### L11 ⭐**Limited Angle Tomography for Transmission X-Ray Microscopy Using Deep Learning** 

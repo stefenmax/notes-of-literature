@@ -22,9 +22,10 @@
 + 鉴别器使用标准的CNN分类模型 类似SRGAN 包括8个卷积层 并具有BatchNorm层和Leaky Relu激活功能  
 文章简介:去除OCT中的斑点噪声  
 **pros and cons**  
++ 使用的训练数据不是天然的斑点噪声而是**人工合成的噪声**，经验证具有合成噪声的训练集增强了**数据的多样性和模型的鲁棒性**
 + 对抗训练中自动提取低噪声OCT图像特征,并将其编码到manifold space(流形空间**？？**)以减少低噪图像与高噪图像之间的感知差异
 + 将频率损失添加到loss function中从而抑制高频噪声保留低频细节  
-+ 生成器高效 参数少 The generator is improved by adding the context-encoding module （context-encoding**？？**）  
++ 生成器高效 参数少 The generator is improved by adding the **context-encoding module** （context-encoding**？？**）  
 + 监督学习一般用L1和L2损失（会导致**过度平滑**）   
 GAN提供了一种基于**感知**的损失函数 can measure the difference in data distribution of the manifold  
 + 发生器使用DenseNet,DenseNet在图像分类表示很好因为reusing the densely skip connection and feature map of the convolutional layer

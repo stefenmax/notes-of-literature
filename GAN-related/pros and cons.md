@@ -25,5 +25,6 @@
 需要注意的是在每个elementwise 层后增加了一个**reduction block ？？** 目的是为不同的Denseblock提供相同的输入尺寸  
 + 鉴别器使用标准的CNN分类模型 类似SRGAN 包括8个卷积层 并具有BatchNorm层和Leaky Relu激活功能  
 
-
+4的流程图  
+![image](https://github.com/stefenmax/notes-of-literature/blob/master/source/wGAN.png)  
 
